@@ -23,13 +23,7 @@ SnakeGame - это классическая игра "Змейка", разра�
 - CMake 3.16 или выше
 - Компилятор, совместимый с C++17
 
-### Клонирование репозитория
 
-```bash
-    git clone https://github.com/yourusername/SnakeGame.git
-    cd SnakeGame/bin
-    SnakeGame.exe
-```
 ### Сборка из исходников
 ```bash
     git clone -b src https://github.com/yourusername/SnakeGame.git
