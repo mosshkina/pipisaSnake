@@ -1,0 +1,139 @@
+{
+	"BUILD_DIR" : "C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/tests/SnakeGameTest_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/tests",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/tests",
+	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/tests/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src",
+	"DEP_FILE" : "C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/tests/SnakeGameTest_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "SnakeGameTest_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/src/game.h",
+			"MU",
+			"VNU7RW3YIC/moc_game.cpp",
+			null
+		],
+		[
+			"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/src/map.h",
+			"MU",
+			"VNU7RW3YIC/moc_map.cpp",
+			null
+		],
+		[
+			"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/src/obstacle.h",
+			"MU",
+			"VNU7RW3YIC/moc_obstacle.cpp",
+			null
+		],
+		[
+			"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/src/snake.h",
+			"MU",
+			"VNU7RW3YIC/moc_snake.cpp",
+			null
+		],
+		[
+			"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/tests/snakegametest.h",
+			"MU",
+			"EWIEGA46WW/moc_snakegametest.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/tests/SnakeGameTest_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/tests/SnakeGameTest_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_TESTCASE_BUILDDIR=\"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/tests\"",
+		"QT_TESTCASE_SOURCEDIR=\"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/tests\"",
+		"QT_TESTLIB_LIB",
+		"QT_WIDGETS_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/tests",
+		"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/tests",
+		"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/src",
+		"C:/Qt/6.6.3/msvc2019_64/include/QtCore",
+		"C:/Qt/6.6.3/msvc2019_64/include",
+		"C:/Qt/6.6.3/msvc2019_64/mkspecs/win32-msvc",
+		"C:/Qt/6.6.3/msvc2019_64/include/QtGui",
+		"C:/Qt/6.6.3/msvc2019_64/include/QtWidgets",
+		"C:/Qt/6.6.3/msvc2019_64/include/QtTest"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/tests/CMakeFiles/SnakeGameTest_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.6.3/msvc2019_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/6.6.3/msvc2019_64/./bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 6,
+	"SETTINGS_FILE" : "C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/tests/CMakeFiles/SnakeGameTest_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/src/game.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/src/map.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/src/obstacle.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/src/snake.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/tests/snakegametest.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

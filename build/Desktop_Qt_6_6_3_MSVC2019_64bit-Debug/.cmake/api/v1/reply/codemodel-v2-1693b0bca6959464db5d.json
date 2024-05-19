@@ -1,0 +1,126 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-360522113aa4e936c9f6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "tests",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-tests-Debug-f3a38455d269156f0755.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "SnakeGame",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SnakeGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SnakeGame-Debug-4075499bb54bd55cc5d7.json",
+					"name" : "SnakeGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SnakeGameTest::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-SnakeGameTest-Debug-5df6dc3e50a6c663c3dd.json",
+					"name" : "SnakeGameTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SnakeGameTest_autogen::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-SnakeGameTest_autogen-Debug-1a118fce1da30458439a.json",
+					"name" : "SnakeGameTest_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SnakeGameTest_autogen_timestamp_deps::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-SnakeGameTest_autogen_timestamp_deps-Debug-44b8cb502b70d16459b1.json",
+					"name" : "SnakeGameTest_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SnakeGame_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SnakeGame_autogen-Debug-97e602f678b9ddd2b0ec.json",
+					"name" : "SnakeGame_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SnakeGame_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SnakeGame_autogen_timestamp_deps-Debug-c7bdb64dfa495b4d9a09.json",
+					"name" : "SnakeGame_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

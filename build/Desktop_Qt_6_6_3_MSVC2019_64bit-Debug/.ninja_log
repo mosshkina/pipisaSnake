@@ -1,0 +1,23 @@
+# ninja log v5
+25	1076	7378235786177326	SnakeGame_autogen/timestamp	cc977e0ae1f6b205
+25	1076	7378235786177326	SnakeGame_autogen/mocs_compilation.cpp	cc977e0ae1f6b205
+25	1076	7378235786177326	C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/SnakeGame_autogen/timestamp	cc977e0ae1f6b205
+25	1076	7378235786177326	C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/SnakeGame_autogen/mocs_compilation.cpp	cc977e0ae1f6b205
+60	1615	7378235791525204	tests/SnakeGameTest_autogen/timestamp	881723897129d283
+60	1615	7378235791525204	tests/SnakeGameTest_autogen/mocs_compilation.cpp	881723897129d283
+60	1615	7378235791525204	C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/tests/SnakeGameTest_autogen/timestamp	881723897129d283
+60	1615	7378235791525204	C:/Users/densa/Downloads/SnakeGame-src (1)/SnakeGame-src/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/tests/SnakeGameTest_autogen/mocs_compilation.cpp	881723897129d283
+1752	2947	7378235806381262	tests/CMakeFiles/SnakeGameTest.dir/__/src/obstacle.cpp.obj	f6479d5db737ba31
+1202	2959	7378235806541182	CMakeFiles/SnakeGame.dir/src/obstacle.cpp.obj	dc8f95c68d18f0fe
+1147	4321	7378235820062131	CMakeFiles/SnakeGame.dir/src/snake.cpp.obj	64e7d1c8e55f144b
+1686	4748	7378235824290860	tests/CMakeFiles/SnakeGameTest.dir/__/src/snake.cpp.obj	b07d974cbefaa390
+1077	5235	7378235829108021	CMakeFiles/SnakeGame.dir/SnakeGame_autogen/mocs_compilation.cpp.obj	c67b78b83405cb2f
+1120	5244	7378235829267972	CMakeFiles/SnakeGame.dir/src/game.cpp.obj	49c74734912b72af
+1097	5278	7378235829668166	CMakeFiles/SnakeGame.dir/main.cpp.obj	960bf5fbd5beb0c1
+1662	5602	7378235832974412	tests/CMakeFiles/SnakeGameTest.dir/__/src/game.cpp.obj	c477a067e0612784
+1176	6002	7378235836990227	CMakeFiles/SnakeGame.dir/src/map.cpp.obj	31427867fd828dfc
+1721	6153	7378235838525253	tests/CMakeFiles/SnakeGameTest.dir/__/src/map.cpp.obj	27cd1b1dd5804c36
+6003	6814	7378235844853962	bin/SnakeGame.exe	77295b0d3f7c3f04
+1617	7756	7378235854509446	tests/CMakeFiles/SnakeGameTest.dir/SnakeGameTest_autogen/mocs_compilation.cpp.obj	be85fd3283f3d913
+1640	7828	7378235855284975	tests/CMakeFiles/SnakeGameTest.dir/snakegametest.cpp.obj	349065d627ee148b
+7828	8468	7378235861385118	tests/SnakeGameTest.exe	b3288b2af264bac5
